@@ -1,54 +1,37 @@
-# 👋 Hello, World! I'm Cedric (Iotashi)
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hi There
 
-Welcome to the source code repository of my coding adventures!
+I´m Cedric, a senior software  engineer based out of Texas.
 
-## 🚀 About Me
+## 🚀💻 Technologies & Tools
 
-- 💻 Fullstack Developer with a knack for turning coffee into code.
-- 🌐 Building scalable web applications and microservices.
-- 🚀 Open-source contributor and tech enthusiast.
+  ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+  ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+  ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
+  ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
+  ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
+  ![Postman](https://img.shields.io/badge/Postman-black?style=flat-square&logo=postman)
+  
+  ![Linux](https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux)
+  ![Ansible](https://img.shields.io/badge/Ansible-black?style=flat-square&logo=ansible)
+  ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+  ![Angular](https://img.shields.io/badge/Angular-c3002f?style=flat-square&logo=angular)
+  ![React](https://img.shields.io/badge/React-black?style=flat-square&logo=react)
 
-## 🛠️ Tech Stack
-
-
-Here's a glimpse of the tools and technologies I wield in my coding toolbox:
-
-```python
-class FullstackDeveloper:
-    """
-    A class representing a Backend Developer with various skills and tools.
-    """
-
-    def __init__(self):
-        # Initialize attributes related to languages, frameworks, databases, and tools etc...
-        self.languages = ["Python", "JavaScript","TypScript", "C++"]
-        self.frameworks = ["FastAPI", "Flask", "Express.js", "React", "Angular", "Bootstrap"]
-        self.databases = ["PostgreSQL", "MySQL", "SQLite"]
-        self.tools = ["Git", "VS Code", "Redis", "RabbitMQ"]
-        self.cloud = ["AWS"]
-        self.devops = ["Docker", "Kubernetes", "Nginx"]
-        self.os = ["Red-hat", "Ubuntu","Windows"]
-        self.other = ["nodejs"]
+  ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=TypeScript&logoColor=white)
+  ![C++](https://img.shields.io/badge/-C++-blue?style=flat-square&logo=cplusplus&logoColor=white)
 
 
-    def write_code(self, language="Python"):
-        """
-        Generate code based on the specified programming language.
+## ⚡ GitHub Stats
 
-        Parameters:
-            - language (str): The programming language for which code needs to be generated.
-
-        Returns:
-            str: The generated code.
-        """
-        if language == "Python":
-            return "print('Hello, World!')"
-        elif language == "JavaScript":
-            return "console.log('Hello, World!')"
-        else:
-            return "🤔🤔🤔🤔"
-
-cedric = FullstackDeveloper()
-cedric.write_code()
-```
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iotashi&theme=gruvbox)
+<table style="border: none;">
+    <tr>
+        <td style="border: none;"><img src="https://github-readme-stats.vercel.app/api?username=iotashi&show_icons=true&count_private=true&theme=gruvbox" /></td>
+        <td style="border: none;"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iotashi&layout=compact&count_private=true&theme=gruvbox" width="355" /></td>
+    </tr>
+    <tr>
+        <td style="border: none;"><img src="https://visitor-badge.laobi.icu/badge?page_id=iotashi.iotashi" alt="Visitor Badge"/></td>
+        <td style="border: none;"></td>
+    </tr>
+</table>
