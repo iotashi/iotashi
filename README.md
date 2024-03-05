@@ -50,5 +50,5 @@ class FullstackDeveloper:
 
 cedric = FullstackDeveloper()
 cedric.write_code()
-
+```
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iotashi&theme=gruvbox)
