@@ -29,8 +29,7 @@ specialties:
   - cloud‑native architectures (serverless ♥)
   - AI/LLM productization
 mission: "Automate the boring — amplify the human"
-quote: >
-  Ship small · Learn fast · Automate everything
+quote: Ship small · Learn fast · Automate everything
 ```
 
 ---
