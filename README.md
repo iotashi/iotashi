@@ -23,7 +23,7 @@
 ```yaml
 pronouns: he/him
 origin: Cameroon 🇨🇲 → USA 🇺🇸
-Now: solo‑founder @ Intelluna — building AI products
+Now: co‑founder @ Intelluna — building AI products
 specialties:
   - full‑stack
   - cloud‑native architectures (serverless ♥)
